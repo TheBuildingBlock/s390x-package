@@ -1,0 +1,4 @@
+---
+dist: focal
+arch: s390x 
+script: echo "s390x test"
